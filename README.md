@@ -108,4 +108,4 @@ Total cost: 6
 
 
 ## Conclusion
-    This project demonstrates how multiple data structures and algorithms can be integrated into a practical system for solving real-world logistics problems.
+- This project demonstrates how multiple data structures and algorithms can be integrated into a practical system for solving real-world logistics problems.
