@@ -95,7 +95,7 @@ Total cost: 6
 - Insert: O(L)
 - Prefix Search: O(L + N)
 
-Where:
+# Where:
 - V = number of nodes
 - E = number of edges
 - L = length of word
@@ -107,5 +107,5 @@ Where:
 - Handling user input and file parsing correctly  
 
 
-Conclusion
+## Conclusion
     This project demonstrates how multiple data structures and algorithms can be integrated into a practical system for solving real-world logistics problems.
