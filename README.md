@@ -54,11 +54,9 @@ The system allows:
 - 2. Navigate to project folder:
     - cd comp251-capstone
 
-run the program
-python3 src/main.py
----
+## run the program
+- python3 src/main.py
 
-```markdown
 ## Sample Input (data/network.txt)
 A B 5
 A C 2
