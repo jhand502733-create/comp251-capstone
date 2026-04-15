@@ -47,16 +47,14 @@ The system allows:
 ### 6. Route Prefix Search (Trie)
 - Supports searching node names by prefix
 
----
 
-```markdown
 ## How to Run
 
-1. Open terminal  
-2. Navigate to project folder:
+- 1. Open terminal  
+- 2. Navigate to project folder:
 
 ```bash
-cd comp251-capstone
+- cd comp251-capstone
 
 run the program
 python3 src/main.py
