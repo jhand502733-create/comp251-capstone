@@ -53,8 +53,8 @@ The system allows:
 - 1. Open terminal  
 - 2. Navigate to project folder:
 
-```bash
-- cd comp251-capstone
+
+cd comp251-capstone
 
 run the program
 python3 src/main.py
