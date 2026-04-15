@@ -49,6 +49,7 @@ The system allows:
 
 ---
 
+```markdown
 ## How to Run
 
 1. Open terminal  
